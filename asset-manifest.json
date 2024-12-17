@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChunAlt.github.io/static/css/main.b8e1acd8.css",
-    "main.js": "/ChunAlt.github.io/static/js/main.0106bb47.js",
-    "static/js/787.265e4373.chunk.js": "/ChunAlt.github.io/static/js/787.265e4373.chunk.js",
-    "index.html": "/ChunAlt.github.io/index.html",
-    "main.b8e1acd8.css.map": "/ChunAlt.github.io/static/css/main.b8e1acd8.css.map",
-    "main.0106bb47.js.map": "/ChunAlt.github.io/static/js/main.0106bb47.js.map",
-    "787.265e4373.chunk.js.map": "/ChunAlt.github.io/static/js/787.265e4373.chunk.js.map"
+    "main.css": "/test/static/css/main.b8e1acd8.css",
+    "main.js": "/test/static/js/main.7f6d640b.js",
+    "static/js/787.265e4373.chunk.js": "/test/static/js/787.265e4373.chunk.js",
+    "index.html": "/test/index.html",
+    "main.b8e1acd8.css.map": "/test/static/css/main.b8e1acd8.css.map",
+    "main.7f6d640b.js.map": "/test/static/js/main.7f6d640b.js.map",
+    "787.265e4373.chunk.js.map": "/test/static/js/787.265e4373.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e1acd8.css",
-    "static/js/main.0106bb47.js"
+    "static/js/main.7f6d640b.js"
   ]
 }
